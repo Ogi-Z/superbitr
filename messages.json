@@ -1622,7 +1622,7 @@
       "Filter value (case sensitive)": ["Filtre değeri (büyük/küçük harfe duyarlı)"],
       "choose WHERE or HAVING...": ["NEREDE veya HAVING'i seçin..."],
       "Filters by columns": ["Sütunlara göre filtreler"],
-      "Filters by metrics": ["Metriklere göre filtreler"],
+       "Filters by metrics": ["Metriklere göre filtreler"],
       "\n                This filter was inherited from the dashboard's context.\n                It won't be saved when saving the chart.\n              ": [
         "\n                Bu filtre, kontrol panelinin içeriğinden devralındı.\n                 Grafik kaydedilirken kaydedilmez.\n              "
       ],
@@ -1646,8 +1646,8 @@
       "Time": ["Zaman"],
       "Time related form attributes": ["Zamanla ilgili form öznitelikleri"],
       "Chart type": ["Görsel türü"],
-      "Chart ID": ["Görsel Id"],
-      "The id of the active chart": ["asdasdasdasdadsdas"],
+      "Chart ID": ["Görsel ID"],
+      "The id of the active chart": [""],
       "Cache Timeout (seconds)": [""],
       "The number of seconds before expiring the cache": [""],
       "URL parameters": [""],
