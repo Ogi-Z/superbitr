@@ -1639,13 +1639,13 @@
       "Pick your favorite markup language": ["Favori işaretleme dilinizi seçin"],
       "Put your code here": ["Kodunuzu buraya yazın"],
       "Query": ["Sorgu"],
-      "URL": ["URL"],
+      "URL": [""],
       "Templated link, it's possible to include {{ metric }} or other values coming from the controls.": [
         "Geçici bağlantı, kontrollerden gelen {{ metric }} veya diğer değerleri dahil etmek mümkündür."
       ],
       "Time": ["Zaman"],
       "Time related form attributes": ["Zamanla ilgili form öznitelikleri"],
-      "Chart type": ["Görsel Türü"],
+      "Chart type": ["Görsel türü"],
       "Chart ID": ["Görsel ID"],
       "The id of the active chart": [""],
       "Cache Timeout (seconds)": [""],
