@@ -1645,7 +1645,7 @@
       ],
       "Time": ["Zaman"],
       "Time related form attributes": ["Zamanla ilgili form öznitelikleri"],
-      "Chart type": ["Görsel türü"],
+      "Chart type": ["Görsel Türü"],
       "Chart ID": ["Görsel ID"],
       "The id of the active chart": [""],
       "Cache Timeout (seconds)": [""],
